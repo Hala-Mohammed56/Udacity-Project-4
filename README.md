@@ -14,9 +14,11 @@ A simple web app that extracts text from articles and blogs, then analyzes its *
    cd news-nlp-app
    
 2.Install dependencies:
+   ```sh
    npm install
    
 3.Run in development mode:
+   ```sh
    npm run build-dev
    npm run start
 
@@ -24,6 +26,7 @@ A simple web app that extracts text from articles and blogs, then analyzes its *
    *Server: http://localhost:8000
 
 4.Run in production mode:
+   ```sh
    npm run build-prod
    npm run start
 
