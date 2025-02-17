@@ -1,5 +1,5 @@
 // Import URL validation function
-import { checkForURL } from './urlChecker';
+import { checkForURL } from './nameChecker';
 
 // Define the server API endpoint
 const serverURL = 'http://localhost:8080/test/';
